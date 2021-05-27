@@ -1,0 +1,12 @@
+data/
+final_experiments/
+__pycache__/
+scaling/
+linearResNet/
+.vscode/
+checkpoint/
+.ipynb_checkpoints/
+.zip
+icml_experiments/
+Deep Scaling - code/
+.idea/
